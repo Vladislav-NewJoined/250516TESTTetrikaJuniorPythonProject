@@ -19,6 +19,7 @@ Backend-Developer Python (junior)
 РЕШЕНИЕ ТЕСТОВОГО ЗАДАНИЯ:
 Создан проект: 250516TESTTetrikaJuniorPythonProject со следующей структурой: 
 
+Структура проекта:
 250516TESTTetrikaJuniorPythonProject/
 ├── task1/
 │   ├── solution.py
